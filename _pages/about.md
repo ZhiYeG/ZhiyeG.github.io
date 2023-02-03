@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Ph.D. candidate at the University of Missouri. I obtained my B.S. and M.S. in Electrical Engineering at University of Xiamen, China. I was a software inter at Xiamen Weixintai Technology Co.,Ltd. During college, I was a member of the RCS Robot Team of Xiamen University, where I met many interesting people and established my future direction
+I am a Computer Science Ph.D. candidate at the University of Missouri. I obtained my B.S. and M.S. in Electrical Engineering at University of Xiamen, China. I was a software intern at Xiamen Weixintai Technology Co.,Ltd. During college, I was a member of the RCS Robot Team of Xiamen University, where I met many talent people and established my future direction.
 
 <font size=5>Research</font> 
 
