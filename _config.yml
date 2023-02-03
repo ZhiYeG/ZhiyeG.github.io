@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "路漫漫其修远兮,吾将上下而求索"
+title                    : "路漫漫其修远兮|吾将上下而求索"
 title_separator          : "-"
 name                     : &name "Zhiye Guo"
 description              : &description "An Explorer"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ZhiYeG"
+  github           : "/ZhiYeG"
   google_plus      :
   keybase          :
   instagram        :
@@ -185,7 +185,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
